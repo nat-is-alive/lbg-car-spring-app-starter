@@ -1,6 +1,6 @@
 pipeline {
     environment {
-       registry = "natu123/cardb"
+       registry = "natu123/cardatabase"
               registryCredentials = "dockerhub_id"
               dockerImage = ""
        }
